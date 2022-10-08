@@ -1,17 +1,18 @@
-<p align="center" width="300">
-   <img align="center" width="200" src="https://user-images.githubusercontent.com/61702435/194723672-92e125de-3638-47d6-8675-d870dbeb4a3d.jpeg" />
-   <h3 align="center">¡Hey 👋! Soy Anlly 👨🏻‍💻</h3>
-</p>
+### Hi there, I'm Anlly 👋
 
-<p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> con 5 años experiencia.<br />
-<p align="center">
-   <a href="https://www.linkedin.com/in/anlly-clariza-correa-cueva-427b06160/" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://img.icons8.com/color/344/linkedin.png" alt="miLinkedin" height="28px" width="28px" />
-  </a>
-  <a href="https://instagram.com/aclar_i" target="blank">
-    <img align="center" src="https://img.icons8.com/3d-fluency/344/instagram-new.png" alt="midu.dev" height="28px" width="28px" />
-  </a>
-  <a href="https://twitter.com/AnllyClariza_21" target="blank">
-    <img align="center" src="https://img.icons8.com/fluency/344/twitter.png" alt="midudev" height="28px" width="28px" />
-  </a>
-</p>
+
+## I'm a Full Stack Developer, QA Analyst, and Lifelong Learner!
+- 🔭 I am currently working on Banking projects!!
+- 🌱 I’m currently Learning everything.
+- 🥅 2022 goals: Learn a lot about quality software, testing, Java development and Learn a lot.
+- ⚡ Fun fact: I love binge-watching movies and working out non-stop every day. XD
+
+### 🏆 Github Stats:
+
+<img alt="Jha-Vineet69's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=jha-vineet69&hide=stars&show_icons=true&hide_border=true&theme=buefy" width="500"/>
+
+<img alt="Jha-Vineet69's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jha-vineet69&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
+
+[linkedin]: https://www.linkedin.com/in/anlly-clariza-correa-cueva-427b06160/
+[gmail]: correa.unprg@gmail.com
+[instagram]: https://www.instagram.com/clar_i
